@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b43cbe381ad780a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7b51c9ae231ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f70b93e62ee2e1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planets (Grahas)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7df8bb037a625260",
+    "type": "split",
+    "children": [
+      {
+        "id": "11584cbc417be602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fad41d37b19018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a64afcd5ea5da65e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7a181758f54f641",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "421e60937d8d9cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec24dea6f3e8a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee42f0e091506cc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Planets (Grahas)"
+            }
+          },
+          {
+            "id": "68d2088867ba4a57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Planets (Grahas)"
+            }
+          },
+          {
+            "id": "a783906d9c1aa820",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e91a4689ee20dfb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e92b76ec25d0837b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Planets (Grahas)"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "f70b93e62ee2e1a7",
+  "lastOpenFiles": [
+    "Vedic Astrology/Introduction.md",
+    "Vedic Astrology/Nakshatras/Nakshatras.md",
+    "Vedic Astrology/Houses/Houses (Bhavas).md",
+    "Vedic Astrology/Signs/Zodiac Signs (Rashis).md",
+    "Vedic Astrology/Planets/Planets (Grahas).md",
+    "Relational Databases/SQL Basics/CREATE TABLE.md",
+    "Vedic Astrology/Fundamentals/Birth Chart (Kundali).md",
+    "Vedic Astrology/Techniques",
+    "Vedic Astrology/Nakshatras",
+    "Vedic Astrology/Houses",
+    "Vedic Astrology/Signs",
+    "Vedic Astrology/Planets",
+    "Vedic Astrology/Fundamentals",
+    "Vedic Astrology",
+    "Relational Databases/SQL Basics/Introduction to SQL.md",
+    "One-to-Many Relationship.md",
+    "Relational Databases/Concepts/Keys/Candidate Key.md",
+    "Relational Databases/Concepts/Keys/Primary Key.md",
+    "Relational Databases/Concepts/Rows.md",
+    "Relational Databases/Concepts/Columns.md",
+    "Rows (Records/Tuples).md",
+    "Relational Databases/Concepts/Normalization/Second Normal Form (2NF).md",
+    "Normalization.md",
+    "Relational Databases/Concepts/Normalization/First Normal Form (1NF).md",
+    "Relational Databases/Concepts/Normalization/Boyce-Codd Normal Form (BCNF).md",
+    "Relational Databases/Concepts/Keys/Super Key.md",
+    "Rows (Records",
+    "Keys.md",
+    "Data Integrity.md",
+    "Relational Databases/Introduction.md",
+    "Welcome.md",
+    "Relational Databases/SQL Basics/SELECT Statement.md",
+    "Relational Databases/SQL Basics/INSERT INTO.md",
+    "Relational Databases/Concepts/Tables.md",
+    "Relational Databases/SQL Basics",
+    "Relational Databases/Concepts/Relationships"
+  ]
+}
