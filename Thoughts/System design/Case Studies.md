@@ -678,19 +678,19 @@ Web crawling uses **BFS** (Breadth-First Search) generally, to explore high-leve
       | Seed URLs | ---> | URL        |
       +-----------+      | Frontier   |
                          +------------+
-                               |
-                               v
+                                |
+                                v
 +---------+          +--------------+
 | Storage | <------- | HTML         |
 +---------+          | Downloader   |
                      +--------------+
-                               |
-                               v
+                                |
+                                v
                      +--------------+
                      | Content      |
                      | Parser       |
                      +--------------+
-                               |
+                                |
       +-------------+          v
       | Duplicate   | <--- [Extracted]
       | Eliminator  |      [Links    ]
@@ -844,6 +844,135 @@ DB3: 3, 6, 9...
 
 ---
 
+## Case Study 12: TTD Ticket Booking (High Concurrency)
+
+> Booking system for Tirumala Tirupati Devasthanams (or similar high-demand event ticketing like concerts).
+
+### Requirements
+
+**Functional:**
+- Users book Special Entry Darshan tickets
+- Release tickets at specific time (e.g., 10 AM)
+- Millions of users waiting in virtual queue
+- Payment integration with 15-minute hold time
+
+**Non-Functional:**
+- **Strict Consistency:** No double booking
+- **Fairness:** Virtual Waiting Room / Queue
+- **High Concurrency:** 5M users, 100K requests/sec at peak
+
+### Core Challenges
+
+1.  **Inventory Management:** Preventing overselling
+2.  **Peak Traffic:** Handling the 10:00 AM spike
+3.  **Bot Protection:** Ensuring real humans book tickets
+
+### Architecture: Virtual Waiting Room
+
+Instead of crashing the server, put users in a queue.
+
+```
+User -> CDN -> [Virtual Waiting Room] -> [Active Session] -> Booking Service
+```
+
+1.  **Waiting Room:** Cloudflare or custom service. Issues a signed token (JWT) with position.
+2.  **Admission:** Let in N users per minute based on server capacity.
+3.  **Active Session:** Only admitted users can access `/book` API.
+
+### Inventory Management (Concurrency Control)
+
+#### Option 1: Database Locking (Pessimistic)
+`SELECT * FROM slots WHERE id=1 FOR UPDATE`
+**Cons:** Too slow, locks DB row, not scalable.
+
+#### Option 2: Optimistic Locking (Versioning)
+`UPDATE slots SET booked=booked+1 WHERE id=1 AND booked < capacity`
+**Cons:** High failure rate at peak.
+
+#### Option 3: Redis + Lua Script (Recommended)
+Redis is single-threaded, atomic.
+
+```lua
+-- Lua Script
+local capacity = tonumber(redis.call('get', KEYS[1]))
+local booked = tonumber(redis.call('get', KEYS[2]))
+
+if booked < capacity then
+    redis.call('incr', KEYS[2])
+    return 1 -- Success
+else
+    return 0 -- Failed
+end
+```
+
+### Booking Workflow
+
+1.  **Reserve Seat (Temporary):**
+    - User selects slot.
+    - Redis decrements available count.
+    - Redis sets key `hold:user_123` with TTL 15 mins.
+
+2.  **Payment:**
+    - User goes to payment gateway.
+    - If success -> Confirm booking in DB (PostgreSQL).
+    - If failure/timeout -> Release hold (Redis increment).
+
+3.  **Reconciliation:**
+    - Cron job checks for "held" tickets that expired but weren't confirmed/released.
+
+### High-Level Design
+
+```
+                                  +------------+
+                                  | Waiting    |
+                                  | Room Svc   |
+                                  +------------+
+                                        |
+User -> [Load Balancer] -> [API GW] ----+
+                            |
+                   +--------+--------+
+                   |                 |
+             +-----------+     +-----------+
+             | Booking   |     | Payment   |
+             | Service   |     | Service   |
+             +-----------+     +-----------+
+                   |                 |
+             +-----------+     +-----------+
+             | Redis     |     | DB        |
+             | (Inventory)|    | (Orders)  |
+             +-----------+     +-----------+
+```
+
+### Database Schema
+
+```sql
+-- Slots
+CREATE TABLE slots (
+    id INT PRIMARY KEY,
+    date DATE,
+    time_slot TIME,
+    total_capacity INT,
+    booked_count INT
+);
+
+-- Bookings
+CREATE TABLE bookings (
+    id UUID PRIMARY KEY,
+    user_id INT,
+    slot_id INT,
+    status ENUM('PENDING', 'CONFIRMED', 'FAILED'),
+    created_at TIMESTAMP
+);
+```
+
+### Bot Prevention
+
+- **CAPTCHA:** Before entering waiting room.
+- **Rate Limiting:** IP/Device fingerprinting.
+- **Proof of Work:** Client solves math puzzle before request.
+
+---
+
 ## Design Patterns Quick Reference
 
 ### Common Patterns
@@ -952,6 +1081,7 @@ Very High: > 100K (highly distributed)
 - [ ] File Storage (Dropbox)
 - [ ] Ride Sharing (Uber)
 - [ ] Collaborative Editor (Google Docs)
+- [ ] Ticket Booking (TTD/Ticketmaster)
 
 ---
 

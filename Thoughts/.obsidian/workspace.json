@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design/Case Studies.md",
+                "file": "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case Studies"
+              "title": "Personal Analysis - 26 Oct 1998"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System design/Case Studies.md",
+                "file": "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Case Studies"
+              "title": "Backlinks for Personal Analysis - 26 Oct 1998"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System design/Case Studies.md",
+                "file": "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Case Studies"
+              "title": "Outgoing links from Personal Analysis - 26 Oct 1998"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System design/Case Studies.md",
+                "file": "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case Studies"
+              "title": "Outline of Personal Analysis - 26 Oct 1998"
             }
           }
         ],
@@ -186,8 +186,16 @@
   },
   "active": "f70b93e62ee2e1a7",
   "lastOpenFiles": [
-    "Vedic Astrology/Techniques/Transits (Gocharas).md",
+    "Vedic Astrology/Case Studies/Career - Steve Jobs.md",
+    "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
+    "Vedic Astrology/Case Studies/Leadership - Mahatma Gandhi.md",
+    "Vedic Astrology/Case Studies/Marriage - Princess Diana.md",
+    "Vedic Astrology/Case Studies/Spirituality - Ramana Maharshi.md",
+    "Vedic Astrology/Case Studies/Wealth - Warren Buffett.md",
+    "Vedic Astrology/Case Studies/_Index.md",
     "System design/Case Studies.md",
+    "Vedic Astrology/Case Studies",
+    "Vedic Astrology/Techniques/Transits (Gocharas).md",
     "Vedic Astrology/Techniques/Medical Astrology.md",
     "Vedic Astrology/Techniques/Jaimini Astrology.md",
     "Vedic Astrology/Techniques/Argala.md",
@@ -205,13 +213,6 @@
     "System design/Message Queues.md",
     "System design/Microservices.md",
     "Vedic Astrology/Introduction.md",
-    "System design/Databases.md",
-    "System design/Load Balancing.md",
-    "System design/Caching.md",
-    "Vedic Astrology/Techniques/Planetary Periods (Dashas).md",
-    "System design/Scalability.md",
-    "Vedic Astrology/Techniques/Yogas.md",
-    "System design/Fundamentals.md",
     "System design",
     "Vedic Astrology/Techniques",
     "Vedic Astrology/Nakshatras",
@@ -220,7 +221,6 @@
     "Vedic Astrology/Planets",
     "Vedic Astrology/Fundamentals",
     "Vedic Astrology",
-    "Rows (Records",
-    "Relational Databases/SQL Basics"
+    "Rows (Records"
   ]
 }
