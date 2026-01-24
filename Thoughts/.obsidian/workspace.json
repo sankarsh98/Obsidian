@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "file": "System design/Case Studies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planets (Grahas)"
+              "title": "Case Studies"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "file": "System design/Case Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planets (Grahas)"
+              "title": "Backlinks for Case Studies"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "file": "System design/Case Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planets (Grahas)"
+              "title": "Outgoing links from Case Studies"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vedic Astrology/Planets/Planets (Grahas).md",
+                "file": "System design/Case Studies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planets (Grahas)"
+              "title": "Outline of Case Studies"
             }
           }
         ],
@@ -186,13 +186,33 @@
   },
   "active": "f70b93e62ee2e1a7",
   "lastOpenFiles": [
+    "Vedic Astrology/Techniques/Transits (Gocharas).md",
+    "System design/Case Studies.md",
+    "Vedic Astrology/Techniques/Medical Astrology.md",
+    "Vedic Astrology/Techniques/Jaimini Astrology.md",
+    "Vedic Astrology/Techniques/Argala.md",
+    "Vedic Astrology/Techniques/Planetary Strengths (Shadbala).md",
+    "Vedic Astrology/Techniques/Ayanamsa.md",
+    "Vedic Astrology/Techniques/Muhurta (Electional Astrology).md",
+    "Vedic Astrology/Techniques/Marriage Compatibility.md",
+    "Vedic Astrology/Techniques/Ashtakavarga.md",
+    "Vedic Astrology/Techniques/Planetary Aspects (Drishti).md",
+    "System design/System Design.md",
+    "System design/API Design.md",
+    "Vedic Astrology/Techniques/Divisional Charts.md",
+    "Vedic Astrology/Techniques/Remedies.md",
+    "System design/Distributed Systems.md",
+    "System design/Message Queues.md",
+    "System design/Microservices.md",
     "Vedic Astrology/Introduction.md",
-    "Vedic Astrology/Nakshatras/Nakshatras.md",
-    "Vedic Astrology/Houses/Houses (Bhavas).md",
-    "Vedic Astrology/Signs/Zodiac Signs (Rashis).md",
-    "Vedic Astrology/Planets/Planets (Grahas).md",
-    "Relational Databases/SQL Basics/CREATE TABLE.md",
-    "Vedic Astrology/Fundamentals/Birth Chart (Kundali).md",
+    "System design/Databases.md",
+    "System design/Load Balancing.md",
+    "System design/Caching.md",
+    "Vedic Astrology/Techniques/Planetary Periods (Dashas).md",
+    "System design/Scalability.md",
+    "Vedic Astrology/Techniques/Yogas.md",
+    "System design/Fundamentals.md",
+    "System design",
     "Vedic Astrology/Techniques",
     "Vedic Astrology/Nakshatras",
     "Vedic Astrology/Houses",
@@ -200,27 +220,7 @@
     "Vedic Astrology/Planets",
     "Vedic Astrology/Fundamentals",
     "Vedic Astrology",
-    "Relational Databases/SQL Basics/Introduction to SQL.md",
-    "One-to-Many Relationship.md",
-    "Relational Databases/Concepts/Keys/Candidate Key.md",
-    "Relational Databases/Concepts/Keys/Primary Key.md",
-    "Relational Databases/Concepts/Rows.md",
-    "Relational Databases/Concepts/Columns.md",
-    "Rows (Records/Tuples).md",
-    "Relational Databases/Concepts/Normalization/Second Normal Form (2NF).md",
-    "Normalization.md",
-    "Relational Databases/Concepts/Normalization/First Normal Form (1NF).md",
-    "Relational Databases/Concepts/Normalization/Boyce-Codd Normal Form (BCNF).md",
-    "Relational Databases/Concepts/Keys/Super Key.md",
     "Rows (Records",
-    "Keys.md",
-    "Data Integrity.md",
-    "Relational Databases/Introduction.md",
-    "Welcome.md",
-    "Relational Databases/SQL Basics/SELECT Statement.md",
-    "Relational Databases/SQL Basics/INSERT INTO.md",
-    "Relational Databases/Concepts/Tables.md",
-    "Relational Databases/SQL Basics",
-    "Relational Databases/Concepts/Relationships"
+    "Relational Databases/SQL Basics"
   ]
 }
