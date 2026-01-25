@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "884f12ece8626aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e72d0c326c3ded6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b0ccc86d049424e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Large Language Model/Architecture/Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d182911ee4ecad7c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "47572f3ad91644ee",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "db1c9ad5abfe4287",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1e76f8339e041f4f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3006c1cf58a5a731",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "990d60b37df06746",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "48b280d694305ea2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9fede11c150b523",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Large Language Model/Architecture.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1417a847787f0655",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Large Language Model/Architecture.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b4f728589b28c472",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Large Language Model/Architecture.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5b0ccc86d049424e",
+  "lastOpenFiles": [
+    "Large Language Model/Architecture.md",
+    "Large Language Model/Introduction.md",
+    "Transformer Architecture.md",
+    "Large Language Model/Concepts/Context Window.md",
+    "Large Language Model/Concepts/Embeddings.md",
+    "Large Language Model/Architecture/Tokenization.md",
+    "Large Language Model/Architecture/Attention Mechanism.md",
+    "Large Language Model/Architecture/Transformer.md",
+    "Large Language Model/Challenges",
+    "Large Language Model/Techniques",
+    "Large Language Model/Training",
+    "Large Language Model/Architecture",
+    "Large Language Model/Concepts",
+    "Vedic Astrology/Case Studies/Personal Analysis - 26 Oct 1998.md",
+    "Large Language Model/Challenges.md",
+    "Large Language Model/Training.md",
+    "Large Language Model",
+    "Vedic Astrology/Fundamentals/Birth Chart (Kundali).md",
+    "Vedic Astrology/Case Studies/_Index.md",
+    "Vedic Astrology/Case Studies/Wealth - Warren Buffett.md",
+    "Vedic Astrology/Case Studies/Spirituality - Ramana Maharshi.md",
+    "Vedic Astrology/Case Studies/Marriage - Princess Diana.md",
+    "Vedic Astrology/Case Studies/Leadership - Mahatma Gandhi.md",
+    "Vedic Astrology/Case Studies/Career - Steve Jobs.md",
+    "Vedic Astrology/Case Studies",
+    "Relational Databases/Concepts/Keys/Candidate Key.md",
+    "Relational Databases/Concepts/Transactions.md",
+    "System design/System Design.md",
+    "Relational Databases/Concepts/Relationships/One-to-One.md",
+    "Relational Databases/SQL Basics/Introduction to SQL.md",
+    "Relational Databases/Introduction.md"
+  ]
+}
