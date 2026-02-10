@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chess/Openings/The Englund Gambit.md",
+                "file": "Chess/Games/Englund_Gambit_Refutation_Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Englund Gambit"
+              "title": "Englund_Gambit_Refutation_Study"
             }
           }
         ]
@@ -186,8 +186,16 @@
   },
   "active": "f5f765022f7bf14a",
   "lastOpenFiles": [
-    "Chess/The Crazy Side of Chess.md",
+    "Chess/Games/Sankarsh Games.md",
+    "Chess/Games/Karpov_vs_Topalov_1994.md",
+    "Chess/Games/Karpov_vs_Kasparov_1985_Game24.md",
+    "Chess/Games/Englund_Gambit_Refutation_Study.md",
+    "Chess/Games/Carlsen_vs_Anand_2013_Game6.md",
+    "Chess/Games/Timman_vs_Karpov_1988.md",
+    "Chess/Endgames/Endgame Fundamentals.md",
+    "Chess/Openings/Dangerous Openings and Traps.md",
     "Chess/Openings/The Englund Gambit.md",
+    "Chess/The Crazy Side of Chess.md",
     "Chess/Chess Psychology.md",
     "Chess/Openings/The Sicilian Defense.md",
     "Chess/Index.md",
@@ -204,18 +212,10 @@
     "Chess/Openings/The English Opening.md",
     "Chess/Openings/_Index.md",
     "Chess/Tools/Repertoire Picker.md",
-    "Chess/Endgames/Endgame Fundamentals.md",
-    "Backend Engineering/Fundamentals/Authentication.md",
     "Chess/Tools",
-    "Chess/Templates/Game Analysis.md",
     "Chess/Templates",
     "Chess/Tactics",
-    "Chess/Openings/The London System.md",
     "Chess/Openings",
-    "Chess/Games/Tal_vs_Botvinnik_1961_Game8.md",
-    "Chess/Games/Lasker_vs_Capablanca_1921.md",
-    "Chess/Games/Kasparov_vs_Karpov_1986.md",
-    "Chess/Games/Karpov_vs_Kasparov_1984_Game6.md",
     "Chess/Endgames",
     "Chess/Games",
     "Chess",

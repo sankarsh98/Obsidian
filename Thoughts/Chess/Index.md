@@ -28,6 +28,7 @@ Welcome to your complete chess knowledge base. Everything you need to improve fr
 | Learn tactics | [[Chess/Tactics/Common Tactical Motifs\|⚔️ Tactical Patterns]] |
 | Master endgames | [[Chess/Endgames/Endgame Fundamentals\|🏁 Endgame Theory]] |
 | Study master games | [[#🏆 Famous Games]] |
+| Review my games | [[Chess/Games/Sankarsh Games\|🎮 Sankarsh Games]] |
 
 ---
 
@@ -93,6 +94,18 @@ Study these masterpieces to understand the highest levels of chess:
 | [[Anand_vs_Topalov_2010_Game12]] | World Championship Tension | Modern |
 | [[Botvinnik_vs_Capablanca_1938]] | Anti-Meran, Masterpiece | Classical |
 | [[Tal_vs_Botvinnik_1961_Game8]] | Magician of Riga | Romantic |
+
+---
+
+## 🎮 Sankarsh Games
+
+Your personal game analysis, rating progression, and improvement tracking across Chess.com and Lichess.
+
+| Resource | Description |
+|----------|-------------|
+| **[[Chess/Games/Sankarsh Games\|🎮 Personal Analysis]]** | Full profile, opening repertoire breakdown, recent games analysis, strengths/weaknesses, and improvement plan |
+
+**Quick Stats:** Chess.com Rapid **1265** · Lichess Rapid **1528** · Puzzle **1807** · 3000+ games played
 
 ---
 
