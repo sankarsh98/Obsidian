@@ -89,6 +89,8 @@ P . P . P P P P
 q N . . K B . R
 ```
 
+[♟️ View this position on the board](https://lichess.org/editor/r1b1k1nr/pppp2Qp/2n5/4P3/8/5N2/P1P1PPPP/qN2KB1R_b_Kkq_-_0_9)
+
 **Evaluation:** White is completely winning. Black's Queen is trapped on a1, and White threatens Qxh8, Qxf7+, and more.
 
 > ❌ **Don't play this line!** Tempting, but ultimately losing with correct White play.

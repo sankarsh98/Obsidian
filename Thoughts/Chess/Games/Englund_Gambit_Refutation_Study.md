@@ -24,6 +24,8 @@ You play 1.d4. Your opponent plays 1...e5?! (the Englund Gambit). This looks dub
 1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4?? Qb4+ 5. Bd2 Qxb2
 ```
 
+[♟️ View the trap position on the board](https://lichess.org/editor/r1b1kbnr/ppppqppp/2n5/4P3/3P1B2/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_4_3)
+
 After ...Qxb2, Black has won your b2 pawn AND threatens Bb4, pinning your knight. If you're not prepared, you can lose in under 10 moves from a "refuted" gambit.
 
 **This is embarrassing but fixable.** Memorize the refutation below and you'll never lose to this again.
@@ -60,6 +62,8 @@ After 3.Nf3, Black usually plays one of these:
 1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7
 ```
 
+[♟️ View starting position](https://lichess.org/editor/r1b1kbnr/ppppqppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_4_4)
+
 Black threatens ...Qb4+ followed by ...Qxb2. Here's where you need to know the refutation:
 
 #### ✅ The Refutation: 4. Nc3!
@@ -86,6 +90,8 @@ R . . Q K B . R
 
 Black's Queen is TRAPPED on b2!
 ```
+
+[♟️ View this position on the board](https://lichess.org/editor/r1b1kbnr/pppp1ppp/2n5/3NP3/8/5N2/PqPBPPPP/R2QKB1R_b_KQkq_-_6_6)
 
 **Continuation:**
 ```
@@ -114,6 +120,8 @@ Step 3: Nd5! (after ...Qxb2)
 ```
 1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7
 ```
+
+[♟️ View position](https://lichess.org/editor/r1bqkb1r/ppppnppp/2n5/4P3/8/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_4_4)
 
 Some opponents know the trap doesn't work, so they develop normally.
 

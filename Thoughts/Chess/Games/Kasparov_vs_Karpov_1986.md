@@ -44,6 +44,8 @@ Kasparov needed to win to take a commanding lead. What followed was a spectacula
 
 After a chaotic time scramble, Kasparov finds a stunning Knight sacrifice that forces either immediate checkmate or decisive material loss.
 
+[♟️ View position before 40. Ne6+!](https://lichess.org/editor/r4rk1/1p2qp1p/2n1b1p1/p2pN3/3P4/2P1B1P1/P2NQP1P/1R3RK1_w_-_-_0_40)
+
 **The punch line:**
 After 40. Ne6+! fxe6 41. **Nd7+!** — a double attack. If 41... Rxd7, then 42. Qxd8# is checkmate! Karpov must give up his Queen.
 

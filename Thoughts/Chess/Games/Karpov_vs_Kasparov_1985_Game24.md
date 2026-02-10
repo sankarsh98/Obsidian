@@ -77,6 +77,8 @@ This game is the most famous practical demonstration of your main opening:
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 b6
 ```
 
+[♟️ View the Tartakower tabiya](https://lichess.org/editor/rnbq1rk1/p1ppbpp1/1p2pn1p/3p4/2PP3B/2N1P3/PP3PPP/R2QKBNR_w_KQ_-_0_7)
+
 Key ideas Kasparov demonstrates:
 - **...b6 + ...Bb7:** The light-squared bishop FINALLY becomes active
 - **...h6 before ...b6:** Prevents Bg5xb8 (a common beginner mistake)

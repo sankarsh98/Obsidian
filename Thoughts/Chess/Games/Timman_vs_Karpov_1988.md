@@ -52,6 +52,8 @@ This is THE move that defines Black's strategy in the Advance Caro-Kann. Karpov 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5!
 ```
 
+[♟️ View the ...c5 break position](https://lichess.org/editor/rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R_w_KQkq_-_0_6)
+
 > **Why this matters to you:** In your losses, you often delay ...c5 or never play it at all. Karpov plays it on move 5-7, immediately challenging White's center. If you learn nothing else from this game, learn this: **...c5 is NOT optional. It is MANDATORY.**
 
 After ...c5, White's d4 pawn becomes a target. The entire center can collapse if White isn't careful. And even if White holds the center, the ...c5 break creates counterplay on the queenside.
@@ -66,6 +68,8 @@ After ...c5, White's d4 pawn becomes a target. The entire center can collapse if
 > **Your Repertoire Rule #1:** ALWAYS play ...Bf5 BEFORE ...e6. This is the whole point of the Caro-Kann!
 
 Karpov plays 3...Bf5 immediately. The bishop gets outside the pawn chain before ...e6 locks it in. Compare this to the French Defense (1.e4 e6 2.d4 d5) where the light bishop is trapped forever.
+
+[♟️ View after 3...Bf5](https://lichess.org/editor/rnbqkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_1_4)
 
 **What You Should Do:**
 - After 1.e4 c6 2.d4 d5 3.e5, ALWAYS play **3...Bf5**

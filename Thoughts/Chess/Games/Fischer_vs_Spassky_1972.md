@@ -44,6 +44,8 @@ Game 6 is widely considered one of Fischer's finest. After the controversy of Ga
 
 Fischer strikes in the center to open lines for his bishops. Spassky's "Hanging Pawns" (c5 and d5) transform from dynamic potential into static weaknesses.
 
+[♟️ View position before 20. e4!](https://lichess.org/editor/1q3rk1/3n1pbp/r2pp1p1/1Bp5/Q2P4/4PN2/PP3PPP/2RR2K1_w_-_-_0_20)
+
 > *"The game is a symphony of positional play."* — Annotators worldwide
 
 This central break is the key strategic idea. Once the pawns are undermined, White's bishops dominate.

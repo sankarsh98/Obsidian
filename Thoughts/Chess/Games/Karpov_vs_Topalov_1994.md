@@ -47,6 +47,8 @@ This game has been universally voted one of the top 10 greatest chess games of a
 
 Karpov sacrifices the Exchange (Rook for pawn!) to rip open Topalov's king. This isn't a calculated tactical shot — it's a *positional* sacrifice. Karpov knew that with the g-file open and Black's king exposed, the attack would play itself.
 
+[♟️ View the position before Rxg6+ on the board](https://lichess.org/editor/1qr3k1/r2Q2b1/2B1p1p1/1Pp1P3/5P2/6P1/P4P1P/4R1K1_w_-_-_0_21)
+
 > *"When I saw Rxg6, I couldn't believe my eyes. It looked like Karpov was just giving away material. But then the attack was unstoppable."* — GM Ljubomir Ljubojević
 
 The key lesson: **Don't calculate every line. Evaluate the resulting position.** After Rxg6+, Black's king is naked. That's all you need to know.
@@ -136,6 +138,8 @@ From move 15 (h4!) onwards, Karpov dictated play. Topalov was never allowed to e
 15. h4! 
 {THE moment. Karpov starts the kingside assault. This is the kind of move you need to learn as a d4 player.}
 
+{♟️ View: https://lichess.org/editor/1q3rk1/r2bQ1bp/p1npp1p1/1Pp5/2P2P1P/1N4P1/P4PB1/4R1K1_b_-_-_0_15}
+
 15... a6 16. h5 b5 17. hxg6 hxg6 
 
 18. Nc5! dxc5 
@@ -145,6 +149,8 @@ From move 15 (h4!) onwards, Karpov dictated play. Topalov was never allowed to e
 
 20. Rxe6!!
 {STUNNING. The Rook cannot be taken because of discovered attacks. Karpov is two pieces down but has a CRUSHING attack.}
+
+{♟️ View: https://lichess.org/editor/1qr3k1/r2Q2bp/2n1R1p1/1Pp1P3/2P2P2/6P1/P5BP/6K1_b_-_-_0_20}
 
 20... Ra7 
 

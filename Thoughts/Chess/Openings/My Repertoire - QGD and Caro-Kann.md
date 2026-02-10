@@ -66,6 +66,8 @@ P P P . . P P .
 R . B . K . . R
 ```
 
+[♟️ View this position on the board](https://lichess.org/editor/r1bqkbnr/pp1n1pp1/2p1p2p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K2R_b_KQkq_-_0_10)
+
 **Your Plan:**
 1. Complete development: ...Ngf6, ...Be7, ...0-0
 2. Challenge the center with ...c5 or ...e5
@@ -487,6 +489,8 @@ After `1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh
 
 **You play:** `10...e6` — Solid continuation before developing.
 
+[♟️ View this position](https://lichess.org/editor/r2qkbnr/pp1n1pp1/2p1p2p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K2R_b_KQkq_-_0_10)
+
 ---
 
 ### Caro-Kann Critical Position #2
@@ -495,6 +499,8 @@ After `1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5`
 **White plays:** `6.0-0` or `6.Be3`
 
 **You continue:** `6...Nc6 7...Nge7` — Knight goes to e7 (not f6!) to prepare ...cxd4 and ...Nf5.
+
+[♟️ View this position](https://lichess.org/editor/rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQK2R_w_KQkq_-_0_6)
 
 ---
 
@@ -505,6 +511,8 @@ After `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 0-0 7.Nf3 b6`
 
 **You recapture:** `8...Nxd5!` (NOT exd5!) — Keeps the position dynamic.
 
+[♟️ View this position](https://lichess.org/editor/rnbq1rk1/p1ppbpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_8)
+
 ---
 
 ### QGD Critical Position #2
@@ -514,6 +522,8 @@ After `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5` (Exchange Variation)
 - Place Knight on e7 or f6, Bishop on e7
 - Castle kingside, then decide on ...c6 or ...c5
 - If White plays a3/b4, consider ...a5 to slow the minority attack
+
+[♟️ View this position](https://lichess.org/editor/rnbqkb1r/ppp2ppp/5n2/3p4/3P4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_0_5)
 
 ---
 

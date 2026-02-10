@@ -50,6 +50,8 @@ This is the game that made the chess world realize: **Carlsen doesn't need advan
 
 After queens are traded, the position is completely equal. Both players have rooks, pawns, and active pieces. Any normal player would agree to a draw here.
 
+[♟️ View the endgame entry position](https://lichess.org/editor/4r1k1/pp2qpp1/3p3p/4p3/4P3/3QP3/PP3PPP/R4RK1_w_-_-_0_40)
+
 Carlsen thought: *"Let me see how long Anand can defend this."*
 
 ### Moment 2: The King March (Moves 44-57)
