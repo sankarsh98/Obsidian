@@ -90,7 +90,7 @@ Emotional and instinctive personality:
 
 ### Sun: Libra in 12th House (Swati Nakshatra)
 
-**Cardinal Air Sign | Ego and Will**
+**Cardinal Air Sign | Debilitated | Ego and Will**
 
 Ego structure and will expression:
 - **Diplomatic nature** - seeks balance and fairness
@@ -106,6 +106,12 @@ Ego structure and will expression:
 - **Spiritual undertones** - ego dissolution tendency
 - **Service-oriented** - identity through helping others
 - **Hidden authority** - power not displayed openly
+
+**Debilitation effects:**
+- **Self-doubt** - struggle with self-esteem in private
+- **Ego dissolution** - needing to transcend typical arrogance
+- **Seeking validation** - compensation through extreme career focus
+- **Lack of strong father-figure support** or distant relationship with father
 
 **Swati Nakshatra personality:**
 - **Independent thinking** - self-directed
@@ -457,7 +463,7 @@ Spiritual inclinations and past mastery:
 |-------|--------|
 | **Obsessive about success** | Rahu in 10th |
 | **Difficulty with patience** | Saturn in Aries |
-| **Hidden pride** | Sun in 12th |
+| **Hidden self-esteem issues / ego struggles** | Sun in 12th (Debilitated) |
 | **Over-analytical privately** | Mercury in 12th |
 
 ---

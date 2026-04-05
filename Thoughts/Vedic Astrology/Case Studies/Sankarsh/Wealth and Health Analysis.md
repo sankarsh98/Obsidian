@@ -250,7 +250,7 @@ Sun, Mercury, Venus in 12th:
 - Need for **rest and retreat**
 - Health improves **away from home**
 - **Sleep issues** possible
-- Eye health needs attention (Sun in 12th)
+- **Eye health and general vitality** need strict attention (Due to Debilitated Sun in the 12th)
 
 ---
 
@@ -261,7 +261,7 @@ Sun, Mercury, Venus in 12th:
 | Body Part | Planetary Indicator | Risk Level |
 |-----------|---------------------|------------|
 | **Lungs/Chest** | Mentioned in predictions | **High** - Need care |
-| **Eyes** | Sun in 12th | Moderate - Regular checkups |
+| **Eyes & Bones** | Sun in 12th (Debilitated) | **Moderate/High** - Regular checkups |
 | **Digestive System** | Saturn in 6th | Moderate - Diet important |
 | **Reproductive System** | Scorpio Lagna | Low-Moderate |
 | **Skin** | Saturn influence | Low |
@@ -285,7 +285,7 @@ Health guidance from nakshatra:
 |-----------|-----------|------------|
 | **Respiratory issues** | Chart predictions | Fresh air, no smoking |
 | **Digestive problems** | Saturn in 6th | Plain food, avoid rich diet |
-| **Eye strain** | Sun in 12th | Regular breaks, checkups |
+| **Eye strain & Low Vitality** | Sun in 12th (Debilitated) | Screen breaks, Vitamin D, checkups |
 | **Stress-related** | Scorpio intensity | Meditation, relaxation |
 | **Blood pressure** | Mars energy | Exercise, diet control |
 

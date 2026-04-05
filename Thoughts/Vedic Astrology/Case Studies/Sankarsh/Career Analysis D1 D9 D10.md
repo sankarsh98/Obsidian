@@ -10,15 +10,15 @@ This is an in-depth career analysis integrating the **Rashi Chart (D1)**, **Nava
 
 ### 10th House Analysis (Career House)
 
-| Element | Position | Significance |
-|---------|----------|--------------|
-| **10th House Sign** | Leo | Authority, leadership, creativity, government |
-| **10th Lord** | Sun in 12th (Libra) | Career abroad, behind-scenes, foreign organizations |
-| **Planets in 10th** | Mars + Rahu | Ambitious drive, technical expertise, unconventional path |
+| Element             | Position            | Significance                                              |
+| ------------------- | ------------------- | --------------------------------------------------------- |
+| **10th House Sign** | Leo                 | Authority, leadership, creativity, government             |
+| **10th Lord**       | Sun in 12th (Libra) | Career abroad, behind-scenes, foreign organizations       |
+| **Planets in 10th** | Mars + Rahu         | Ambitious drive, technical expertise, unconventional path |
 
 #### Mars in 10th House (Leo)
 
-Mars, the **Lagna lord**, in the 10th house is a powerful **Ruchaka Yoga** indicator:
+Mars, the **Lagna lord**, in the 10th house is a powerful source of **Digbala (Directional Strength)**:
 
 - **Natural leadership abilities** - born to command
 - **Digbala (Directional Strength)** - Mars gets 100% directional strength in 10th
@@ -292,7 +292,7 @@ Based on Mars exalted in D10's 10th + Mars-Rahu in D1's 10th:
 
 | Yoga | Formation | Effect |
 |------|-----------|--------|
-| **Ruchaka Yoga** (Partial) | Mars in kendra from Lagna | Fame, leadership, warrior-like success |
+| **Digbala** | Mars in 10th house | Supreme directional strength for career |
 | **Raj Yoga** | Lagna lord in 10th | Self through career, high position |
 | **Viparita Raja Yoga** | 6th lord in 10th | Success through competition |
 | **Budha-Aditya (Partial)** | Sun-Mercury in same sign | Intelligence in career |

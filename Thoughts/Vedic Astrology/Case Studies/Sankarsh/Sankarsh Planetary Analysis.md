@@ -23,6 +23,9 @@
 **Dignity:** Debilitated  
 **Lordship:** Lord of 10th House (Career/Status)
 
+> [!WARNING]
+> **Deep Debilitation:** The Sun is at 8°43', extremely close to its maximum debilitation point (10° Libra). This can mask natural solar traits (outward confidence, vitality, relationships with authority). It indicates a strong need to consciously build self-esteem and avoid seeking extreme external validation.
+
 The Sun placed in the 12th house indicates:
 - Expenditure on foreign lands or travels
 - Connection with hospitals, spiritual retreats, or foreign countries

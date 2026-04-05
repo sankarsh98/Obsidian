@@ -58,7 +58,7 @@
 | Planet | Sign | Degree | Nakshatra | Pada | Status |
 |--------|------|--------|-----------|------|--------|
 | **Ascendant** | Scorpio | 28°13'12" | Jyeshtha | 4 | - |
-| **Sun** | Libra | 08°43'17" | Swati | 1 | - |
+| **Sun** | Libra | 08°43'17" | Swati | 1 | Debilitated |
 | **Moon** | Sagittarius | 11°56'47" | Mula | 4 | - |
 | **Mars** | Leo | 17°27'20" | Purvaphalguni | 2 | - |
 | **Mercury** | Libra | 27°16'06" | Vishakha | 3 | - |
@@ -176,7 +176,7 @@ No Manglik remedies are required for marriage compatibility.
 
 | Current Dasha (as of 2026) | Sub-Period |
 |----------------------------|------------|
-| **Mahadasha** | Jupiter (2060-2076) |
-| **Currently Running** | Saturn Mahadasha |
+| **Mahadasha** | Moon (2025-2035) |
+| **Currently Running** | Moon Mahadasha |
 
 *Switch to [[Sankarsh Dasha Analysis]] for complete dasha timeline*
