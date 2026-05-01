@@ -169,6 +169,13 @@ No Manglik remedies are required for marriage compatibility.
 - [[Sankarsh Dasha Analysis]] - Detailed Vimshottari & Char Dasha periods
 - [[Sankarsh Planetary Analysis]] - In-depth planet considerations
 - [[Sankarsh Life Predictions]] - Character, career, health, and life path
+- [[Heartfelt Analysis of Sankarsh]] - Narrative and empathetic soul interpretation
+- [[The Architect of the Coming Age]] - Unconventional review for the digital age
+- [[The Trigger Events - Marriage and Childbirth]] - Analysis of major life karmic catalysts
+- [[The Archetypal Journey - Karma, Crisis, and Genius]] - Psychological analysis over the lifelong arc
+- [[Karakamsha Lagna & Ishta Devatha Analysis]] - Soul purpose and spiritual deities
+- [[Jaimini Atmakaraka & Hidden Genius Combinations]] - Advanced Jaimini techniques
+- [[Spirituality Analysis]] - Spiritual journey and moksha potential
 
 ---
 
